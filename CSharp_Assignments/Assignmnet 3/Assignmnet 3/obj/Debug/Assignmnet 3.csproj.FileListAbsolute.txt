@@ -1,0 +1,7 @@
+C:\Assignment 3\Assignmnet 3\Assignmnet 3\bin\Debug\Assignmnet 3.exe.config
+C:\Assignment 3\Assignmnet 3\Assignmnet 3\bin\Debug\Assignmnet 3.exe
+C:\Assignment 3\Assignmnet 3\Assignmnet 3\bin\Debug\Assignmnet 3.pdb
+C:\Assignment 3\Assignmnet 3\Assignmnet 3\obj\Debug\Assignmnet 3.csproj.AssemblyReference.cache
+C:\Assignment 3\Assignmnet 3\Assignmnet 3\obj\Debug\Assignmnet 3.csproj.CoreCompileInputs.cache
+C:\Assignment 3\Assignmnet 3\Assignmnet 3\obj\Debug\Assignmnet 3.exe
+C:\Assignment 3\Assignmnet 3\Assignmnet 3\obj\Debug\Assignmnet 3.pdb

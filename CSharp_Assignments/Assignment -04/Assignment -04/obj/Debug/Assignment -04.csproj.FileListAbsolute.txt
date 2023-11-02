@@ -1,0 +1,7 @@
+C:\CSharp_Assignments\Assignment -04\Assignment -04\obj\Debug\Assignment -04.csproj.AssemblyReference.cache
+C:\CSharp_Assignments\Assignment -04\Assignment -04\obj\Debug\Assignment -04.csproj.CoreCompileInputs.cache
+C:\CSharp_Assignments\Assignment -04\Assignment -04\bin\Debug\Assignment -04.exe.config
+C:\CSharp_Assignments\Assignment -04\Assignment -04\bin\Debug\Assignment -04.exe
+C:\CSharp_Assignments\Assignment -04\Assignment -04\bin\Debug\Assignment -04.pdb
+C:\CSharp_Assignments\Assignment -04\Assignment -04\obj\Debug\Assignment -04.exe
+C:\CSharp_Assignments\Assignment -04\Assignment -04\obj\Debug\Assignment -04.pdb

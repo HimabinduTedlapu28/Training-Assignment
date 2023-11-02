@@ -1,0 +1,7 @@
+C:\CSharp_Assignments\Assignment - 05\Assignment - 05\bin\Debug\Assignment - 05.exe.config
+C:\CSharp_Assignments\Assignment - 05\Assignment - 05\bin\Debug\Assignment - 05.exe
+C:\CSharp_Assignments\Assignment - 05\Assignment - 05\bin\Debug\Assignment - 05.pdb
+C:\CSharp_Assignments\Assignment - 05\Assignment - 05\obj\Debug\Assignment - 05.csproj.AssemblyReference.cache
+C:\CSharp_Assignments\Assignment - 05\Assignment - 05\obj\Debug\Assignment - 05.csproj.CoreCompileInputs.cache
+C:\CSharp_Assignments\Assignment - 05\Assignment - 05\obj\Debug\Assignment - 05.exe
+C:\CSharp_Assignments\Assignment - 05\Assignment - 05\obj\Debug\Assignment - 05.pdb

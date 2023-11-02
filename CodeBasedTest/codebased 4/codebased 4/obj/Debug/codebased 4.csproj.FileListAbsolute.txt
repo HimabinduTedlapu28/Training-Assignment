@@ -1,0 +1,7 @@
+C:\CodeBasedTest\codebased 4\codebased 4\bin\Debug\codebased 4.exe.config
+C:\CodeBasedTest\codebased 4\codebased 4\bin\Debug\codebased 4.exe
+C:\CodeBasedTest\codebased 4\codebased 4\bin\Debug\codebased 4.pdb
+C:\CodeBasedTest\codebased 4\codebased 4\obj\Debug\codebased 4.csproj.AssemblyReference.cache
+C:\CodeBasedTest\codebased 4\codebased 4\obj\Debug\codebased 4.csproj.CoreCompileInputs.cache
+C:\CodeBasedTest\codebased 4\codebased 4\obj\Debug\codebased 4.exe
+C:\CodeBasedTest\codebased 4\codebased 4\obj\Debug\codebased 4.pdb

@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Multiplication and Division</title>
+</head>
+<body>
+    <h1>Multiplication and Division</h1>
+
+    <p>Enter two numbers to calculate multiplication and division:</p>
+
+    <input type="text" id="num1" placeholder="Enter the first number">
+    <input type="text" id="num2" placeholder="Enter the second number">
+    <button onclick="calculate()">Calculate</button>
+
+    <p>Results:</p>
+
+    <p id="multiplicationResult"></p>
+    <p id="divisionResult"></p><h1>Calculator</h1>
+    <script>
+        function calculate() {
+            var num1 = parseFloat(document.getElementById("num1").value);
+            var num2 = parseFloat(document.getElementById("num2").value);
+
+            var multiplicationResult = document.getElementById("multiplicationResult");
+            var divisionResult = document.getElementById("divisionResult");
+
+            if (isNaN(num1) || isNaN(num2)) {
+                multiplicationResult.textContent = "Please enter valid numbers.";
+                divisionResult.textContent = "";
+            } else {
+                var multiplication = num1 * num2;
+                multiplicationResult.textContent = "Multiplication: " + multiplication;
+
+                if (num2 !== 0) {
+                    var division = num1 / num2;
+                    divisionResult.textContent = "Division: " + division;
+                } else {
+                    divisionResult.textContent = "Division by zero is not allowed.";
+                }
+            }
+
+    </script>
+
+
+
+</body>
+</html>
+
+    
